@@ -1,5 +1,5 @@
 # TestSQLRepo
-In the following repository, you could find a SQL file that has different queries based on the test interview. Please be aware of following the steps for testing the query. 
+In the following repository, you can find a SQL file that has different queries based on the test interview. Please be aware of following the steps for testing the query. 
 
 In my case, I have created and run my code in PHPMYADMIN, which works with XAMPP software. This is the link if you have never worked with: https://www.apachefriends.org/es/index.html
 
